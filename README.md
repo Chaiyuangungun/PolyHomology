@@ -3,13 +3,13 @@ Identification of alleles was based on three steps，as illustrated in Figure: (
 <img width="883" alt="image" src="https://github.com/user-attachments/assets/3c33a694-e226-4c42-8dff-ff3dcbf8ca18" />
 
 # Requirements
-JCVI
-Broccoli
-diamond
-Python version 3.6 or above
-numpy
-scipy
-tqdm
+        JCVI
+        Broccoli
+        diamond
+        Python version 3.6 or above
+        numpy
+        scipy
+        tqdm
 
 
 # Usage
